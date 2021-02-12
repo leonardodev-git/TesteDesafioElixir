@@ -1,8 +1,8 @@
 O arquivo contém duas listas:
 
-A primeira contém a lista do supermercado, com as chaves, item, preço e quantidade.
+A const listaDeCompras contém um array de objetos com as chaves, item, preço e quantidade.
 
-A segunda lista contém o nome da pessoa com seu respectivo email.
+A const listaDeEmail contém um array de objetos com as chaves pessoa e email.
 
 A função, relatórioDeCompras, quando executada, fará uma primeira análise, caso não tenha nenhum item tanto no array listaDeCompras quanto em listaDeEmail, a função retornará a seguinte mensagem:  A Lista de compras está vazia e sem nenhum Email.
 
