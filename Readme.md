@@ -14,5 +14,5 @@ Depois disso ela passará para const valorDaDivisao, e nesse método, primeiro e
 
 Para rodar o programa, primeiramente deve-se instalar no node, versão 14.5.1, disponibilizado em https://nodejs.org/en/.
 
-Depois disso, abra o terminal e dê o comando "node desafioElixir.js".
+Depois disso, abra o terminal e dê o comando "node solucaoTesteElixir.js".
 O console.log da linha 86, retornará o objeto com o mapa solicitado no desafio.
